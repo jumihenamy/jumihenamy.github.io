@@ -1,0 +1,14 @@
+#test{
+    background-color: aqua;
+}
+
+#try{
+    background-color: blue;
+    display: grid;
+    gap: 12px 23px;
+}
+#each{
+    background-color: brown;
+    width: 203px;
+    height: 23px;
+}
